@@ -41,11 +41,11 @@ header nav li {
 header nav li a {
     text-decoration: none;
     display: inline-block;
-    padding:15px 0;
+    padding:10px 0;
     color: #000;
 }
 header nav li .perro {
-    padding: 0 0;
+    /* padding: 0 0; */
 }
 
 header nav li a:hover {
